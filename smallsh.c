@@ -1,7 +1,6 @@
 /**************************************************************************
 ** Author:	Cris Shumack
 ** Date: 	11/20/2019
-** Assignment:	Program 3 - smallsh
 ** Description:	Implementation of a simple Linux shell. Supports the
 **		built-in commands cd, status, and exit. It will also
 **		allow for redirection of standard input and output,
